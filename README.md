@@ -24,7 +24,6 @@ Buty:<br>
 
 Peleryny:<br><br>
 
-Undead Cape (Ucieczka, jak masz low to invis, mega sytuacyjna, raczej now worth ale dam tu)<br>
 Thetford Cape (on hit - statik shiv)<br>
 Morgana Cape (jak uzyjesz E - bonus AS + CT)<br>
 Lymthurst Cape (Odnawia mane jak masz jej mało)<br>
