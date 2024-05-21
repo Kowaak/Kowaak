@@ -20,6 +20,11 @@ Hełmy:<br>
 
 Buty:<br>
 <br>
+Boots of Valor (Za długi opis ale fajne https://wiki.albiononline.com/wiki/Premonition)<br>
+Graveguard Boots (Cleanse i MS + 55%)<br>
+Guardian Boots (Max HP + 100% i MS + 25% na 8s)<br>
+Judicator Boots (Sett R)<br>
+Knight Boots (Dash chyba + shield)<br>
 Stalker Shoes (Teleport do enemy + damage wiekszy)<br>
 Shoes of Tenacity (Invis + MS + next attack dodatkowy damage)<br>
 Mercenary Shoes (Cleanse)<br>
