@@ -19,8 +19,13 @@ Hełmy:<br>
 
 
 Buty:<br>
-
-
+<br>
+Stalker Shoes (Teleport do enemy + damage wiekszy)<br>
+Shoes of Tenacity (Invis + MS + next attack dodatkowy damage)<br>
+Mercenary Shoes (Cleanse)<br>
+Hunter Shoes (MS + 35% CC)<br>
+Hellion Shoes (Mark, potem invis, po 2s dash + 35% damage)<br>
+Assassin Shoes ("Dash behind the targeted enemy and deal 268 physical damage.")<br><br>
 
 Peleryny:<br><br>
 
