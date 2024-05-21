@@ -3,7 +3,7 @@
 
 Klaty:<br>
 <br>
-Armor of Valor (Odbija damage + silence)
+Armor of Valor (Odbija damage + silence)<br>
 Graveguard armor (Przyciaga do ciebie enemy)
 Guardian Armor (Zmniejsza damage enemy w poblizu)
 Knight Armor (Odbija enemy)
