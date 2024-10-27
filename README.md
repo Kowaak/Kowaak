@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kowaak&show_icons=true&theme=dracula&hide=LLVM)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kowaak&layout=pie&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kowaak&show_icons=true&theme=dracula&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kowaak&layout=pie&theme=draculahide=LLVM)
 
 <!--
 **Kowaak/Kowaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
