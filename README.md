@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kowaak&layout=pie&theme=transparent&hide=LLVM&langs_count=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kowaak&layout=pie&theme=transparent&hide=LLVM&langs_count=10)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kowaak&show_icons=true&theme=transparent)
 
 <!--
